@@ -1,7 +1,7 @@
 ## Olá Eu sou o Ota 👋
 
 - 🔭 I’m currently working on project personal.
-- 🌱 I’m currently learning Javascript. <br><br>
+- 🌱 I’m currently learning Kotlin. <br><br>
 
 <div align="init">
   <a href="https://github.com/otaciliosilva">
