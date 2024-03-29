@@ -11,7 +11,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://imgur.com/a/d7LBnGS">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://i.imgur.com/g0fbrXH.png">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
     
